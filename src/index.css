@@ -1,0 +1,27 @@
+header{
+    background-color: #091057;
+}
+
+.white{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 16;
+    text-decoration: none;
+    padding: 15px ;
+}
+
+
+.hero{
+    background-color: #091057;
+}
+h1{
+    color: #F36339;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    font-size: 130
+}
+.para1{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
